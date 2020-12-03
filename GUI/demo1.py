@@ -29,6 +29,6 @@ def songcao(e):             # e就是事件对象
 btn01.bind("<Button-1>",songhua)          #事件绑定
 btn02.bind("<Button-1>",songcao)
 
-
+#12132
 
 root.mainloop()                  # 调用组件的mainloop() 方法，进入事件循环
