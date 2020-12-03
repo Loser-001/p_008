@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/GUI/demo1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GUI/demo2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap6/demo13.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap6/demo14.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap6/demo15.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap6/demo16.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo15.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo16.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo6.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/demo9.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chap7/串口助手.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stusystem.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/Task2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/Task3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/Task4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/Task5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/Task6.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/Task7.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/实操案例/explame1.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
