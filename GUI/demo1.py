@@ -31,4 +31,6 @@ btn02.bind("<Button-1>",songcao)
 
 #12132
 
+##从github上修改代码 然后更新到pycharm
+
 root.mainloop()                  # 调用组件的mainloop() 方法，进入事件循环
